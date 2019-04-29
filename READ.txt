@@ -1,0 +1,16 @@
+
+A1 : Implementation of pass 1 for assembler
+A2 : Implementation of pass2 assembler
+A3 : Implementation of pass 1 for macro processor
+A4 : Implementation of pass 2 for macro processor
+
+B1 : Create Dynamic Link Library for mathematical operation and write an application program to test it using Java Native Interface.
+B2 : Implement lexical analysis phase of compiler to generate tokens of subset of Java program.
+B3 : Implement lexical analysis phase of compiler to count no. ofwords, lines and characters of given input file.
+B4 : Implement syntax analysis phase of compiler to validate typeand syntax of variable declaration in Java.
+
+C1 : Implement syntax analysis phase of compiler to recognizesimple and compound sentences given in input file.
+C2 : Implement Scheduling Algorithms 1. FCFS 2. SJF(Preemptive) 3.Priority/Round Robin(Non Preemptive)
+C3 : Banker's Algorithm.
+
+D1 : Implement Paging Algorithms 1.LRU 2.Optimal Page Replacement.
