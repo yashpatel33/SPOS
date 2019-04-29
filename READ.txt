@@ -1,6 +1,6 @@
 
-A1 : Implementation of pass 1 for assembler
-A2 : Implementation of pass2 assembler
+A1 : Pass I of a two pass assembler.
+A2 : Pass II of a two pass assembler.
 A3 : Implementation of pass 1 for macro processor
 A4 : Implementation of pass 2 for macro processor
 
